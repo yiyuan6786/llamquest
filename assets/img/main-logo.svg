@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228.66 39.08">
+  <style>.cls-1{fill:#fed136;}</style>
+  
+  <!-- L (1st) -->
+  <path class="cls-1" d="M10 15h8v18h-8z"/>
+  <path class="cls-1" d="M10 31h16v4H10z"/>
+  
+  <!-- L (2nd) -->
+  <path class="cls-1" d="M36 15h8v18h-8z"/>
+  <path class="cls-1" d="M36 31h16v4H36z"/>
+  
+  <!-- A -->
+  <path class="cls-1" d="M62 15h24v4H62z"/>
+  <path class="cls-1" d="M62 15h4v24h-4z"/>
+  <path class="cls-1" d="M82 15h4v24h-4z"/>
+  <path class="cls-1" d="M62 25h24v4H62z"/>
+  
+  <!-- M -->
+  <path class="cls-1" d="M96 15h4v24h-4z"/>
+  <path class="cls-1" d="M116 15h4v24h-4z"/>
+  <path class="cls-1" d="M96 15l10 12 10-12"/>
+  
+  <!-- Q -->
+  <path class="cls-1" d="M130 15h20v20h-20z"/>
+  <path class="cls-1" d="M140 25l10 10"/>
+  
+  <!-- U -->
+  <path class="cls-1" d="M160 15h4v20h-4z"/>
+  <path class="cls-1" d="M180 15h4v20h-4z"/>
+  <path class="cls-1" d="M160 33h24v4H160z"/>
+  
+  <!-- E -->
+  <path class="cls-1" d="M194 15h4v24h-4z"/>
+  <path class="cls-1" d="M194 15h16v4h-16z"/>
+  <path class="cls-1" d="M194 25h12v4h-12z"/>
+  <path class="cls-1" d="M194 35h16v4h-16z"/>
+  
+  <!-- S -->
+  <path class="cls-1" d="M220 15h16v4H220z"/>
+  <path class="cls-1" d="M220 15h4v10h-4z"/>
+  <path class="cls-1" d="M220 25h16v4H220z"/>
+  <path class="cls-1" d="M232 25h4v10h-4z"/>
+  <path class="cls-1" d="M220 35h16v4H220z"/>
+  
+  <!-- T -->
+  <path class="cls-1" d="M246 15h16v4H246z"/>
+  <path class="cls-1" d="M254 15h4v24h-4z"/>
+</svg>
